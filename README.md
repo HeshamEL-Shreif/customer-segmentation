@@ -54,10 +54,7 @@ The code performs the following steps:
 
 ## Usage
 1. Place the raw data file (`bank_customer_transactions.csv`) in the appropriate directory
-2. Run the notebook to perform the complete analysis:
-   ```
-   python customer_seg.ipynb
-   ```
+2. Run the notebook to perform the complete analysis: (`python customer_seg.ipynb`)
 3. Review the generated visualizations and clusters
 
 ## Results
